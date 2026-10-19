@@ -10,7 +10,6 @@
 
 <p style="margin-bottom: 1.5rem;">
     <a href="${normalUrl}">Ver lista con cursos</a> | 
-    <a href="${emptyUrl}">Simular respuesta sin resultados</a>
 </p>
 
 <c:choose>
